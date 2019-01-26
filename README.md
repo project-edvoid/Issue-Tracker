@@ -8,6 +8,7 @@ https://documenter.getpostman.com/view/3276770/Rztispr2
 ## For Developers
 - This API Documentation is specially for EdVoid Team.
 - If you are facing any problem feel free to Create issue [here](https://github.com/rohitcoder/EdVoid-Core-API-Doc/issues).
+- New suggested improvements are always welcomed! Fee free to suggest us something by creating a new issue [here](https://github.com/rohitcoder/EdVoid-Core-API-Doc/issues).
 
 ## Change Log
 
