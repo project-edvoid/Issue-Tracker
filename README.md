@@ -10,4 +10,4 @@
 ## Change Log
 
 #### V 1.1
-- Initial Version of EdVoid Core API
+- Initial Version of EdVoid Core API Introduced
