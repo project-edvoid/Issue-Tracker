@@ -20,7 +20,7 @@ Most of issues are known to us but this is first we started working with people 
 Privilege Escalation (Example: Admin of school A can delete student of School B using any crafted request)
 Parameter Pollution (Example: Passing array or string where int should be passed.)
 <div align="center">
-  <img alt="EdVoid logo" src="https://edvoid.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-26-at-6.46.24-PM.png" width="350px" height="150"><img alt="Coffe" src="http://mgsoftware.ca/wp-content/uploads/2018/10/kisspng-web-development-mobile-app-development-web-applica-5af5e00195e3f7.971403951526063105614.png" height="150"><img alt="Coffe" src="http://technostark.com/wp-content/uploads/2017/07/erp2.png" height="150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/2000px-Android_Studio_icon.svg.png" height="150">
+  <img alt="EdVoid logo" src="https://profile-photos.hackerone-user-content.com/000/024/599/95fbdeb1c752eea32e1806491f992d524538184d_xtralarge.png?1511886245" width="130px" height="130px">
 </div>
 
 ## Need any help?
